@@ -1,0 +1,16 @@
+.box {
+    border-style: dotted;
+    margin: 2px;
+    color: black;
+    float: left;
+    background-color: orange;
+}
+
+p {
+    border-style: solid;
+    margin: 2px;
+    color: black;
+    padding: 20px;
+    float: left;
+    background-color: white;
+}
